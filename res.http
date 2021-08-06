@@ -1,0 +1,4 @@
+ curl --location --request GET 'https://palota-jobs-africa-spotify-fa.azurewebsites.net/api/browse/categories/afro/playlists' \
+ --header 'x-functions-key: BwtKHT3o5eAQ98LX8tS8wrrKNWXWT1EIx9Mj5Vbano5MmWYCvagnuw=='
+
+
